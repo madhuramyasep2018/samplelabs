@@ -30,6 +30,8 @@ public class MapsLab {
 		
 	}
 	
+	//Print hash map
+	
 	public void printHmapKeySet(HashMap<Integer, String> hmap) {
 		Set<Integer> keys = hmap.keySet();
 		for(Integer key : keys)
